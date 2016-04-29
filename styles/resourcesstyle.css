@@ -1,0 +1,21 @@
+.nav-tabs li{
+    width:25%;
+}
+
+.nav-tabs li a{
+    color:#000000;
+}
+
+.scrollspy_navbar{
+    position:fixed;
+    top:50px;
+    left:0;
+    right:0;
+    z-index: 1;
+    width:100%;
+    background:#ff1a75;
+}
+.resource_section{
+    height:800px;
+    border-bottom: 1px solid black;
+}

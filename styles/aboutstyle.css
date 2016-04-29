@@ -1,0 +1,22 @@
+.about_section{
+    position:relative;
+    left:15%;
+    right:15%;
+    width:70%;
+}
+
+.about_section h1{
+    text-align:center;
+    width:100%;
+}
+
+.about_section p{
+    text-align:justify;
+    width:100%;
+}
+
+.about_section img{
+    box-shadow: 2px 2px 15px black;
+    margin-right:10px;
+    padding:10px;
+}
